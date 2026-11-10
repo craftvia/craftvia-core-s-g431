@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "core-s-g431",
+  "name": "Core-S G431",
+  "role": "core",
+  "productVersion": "v1",
+  "pcbRevision": "Rev0",
+  "designStatus": "frozen",
+  "verificationStatus": "unverified",
+  "hardwareStatus": "design-frozen",
+  "summary": {
+    "en": "An STM32G431-based Core-S implementation with SWD, native USB, mixed-signal peripherals, and optional FDCAN profiles.",
+    "ja": "STM32G431を搭載し、SWD、Native USB、Mixed-signal peripheral、Profile選択式FDCANを提供するCore-S実装です。"
+  },
+  "repository": "https://github.com/craftvia/craftvia-core-s-g431",
+  "sourceRef": "main",
+  "image": "docs/images/3D_PCB1_2026-10-26.png",
+  "documents": {
+    "specification": { "en": "docs/specification-v1-rev0.md", "ja": "docs/specification-v1-rev0.ja.md" },
+    "verificationPlan": { "en": "docs/verification-plan-v1-rev0.md", "ja": "docs/verification-plan-v1-rev0.ja.md" },
+    "releaseNotes": "RELEASE_NOTES.md"
+  }
+}

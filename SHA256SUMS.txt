@@ -1,0 +1,7 @@
+3e27042b1a78932bceb92037c5db9c9f2e7b0856bbd0c26f4f64ee2ee85cdfbf  assembly/BOM_Board1_PCB1_2026-10-26.csv
+152a1f5e161508193fbafc9921e1dc8d1d4c687eac58971d34a7b70c5e85e99e  assembly/CraftVia-Core-S-G431-v1-Rev0-Assembly.pdf
+926b05b00f67c2e0380bd45634a0ad4338d90724f43021c323534ce788380a29  assembly/PickAndPlace_PCB1_2026_10_26.csv
+31f302c1353f57e58ba65c0b94c8a044e92fdfab06df88049566d4f6bdd887ca  docs/SCH_Core-S-G431-v1-Rev0_2026-10-26.pdf
+57dc2b7e7c88855457b18267e58a798989147cd9d35750b8680da155205afd62  fabrication/Gerber_PCB1_2026-11-04.zip
+ebae7a9b5478990bd138dd12e0b18ce9bee6f9e6addf61ce0b01c9f8536e7b01  source/CraftVia-Core-S-G431-v1-Rev0.eprj2
+2718dce1f7ac7bfc1ccb6396f886c66f9deea33e9a653f381e4f8b534712848c  source/ProPrj_CraftVia-Core-S-G431-v1-Rev0_2026-10-26.epro
