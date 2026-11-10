@@ -5,6 +5,7 @@
 - Revision: Rev0
 - Freeze date: 2026-10-26 22:35 JST
 - Status: FROZEN for initial prototype PCB fabrication
+- Hardware status: PCB ordered; awaiting delivery, unassembled and unverified
 - Intended use: Rev0 engineering prototype; not a general-production release
 - Default assembly variant: `P10 + V0 + C0`
 - Assembly plan: bare-PCB fabrication followed by manual assembly; no turnkey PCBA is planned for the first article

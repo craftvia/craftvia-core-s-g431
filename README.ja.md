@@ -3,7 +3,7 @@
 > [!WARNING]
 > **未検証のRev0ハードウェアです**
 >
-> 凍結済み設計ですが、電気的な実機検証は完了していません。製造・実装は自己責任となり、今後のRevisionで設計が変更される可能性があります。
+> Rev0基板は発注済みで、現在は到着待ちです。未実装・未通電・未検証であり、実装・使用は自己責任となります。今後のRevisionで設計が変更される可能性があります。
 
 [English](README.md) · [CraftVia](https://craftvia.org/ja/) · [Rev0リリースノート（英語正本）](RELEASE_NOTES.md)
 
@@ -20,7 +20,9 @@ CraftVia Core-S G431は、STM32G431CBT6を搭載するCore-S v1実装です。25
 | 製品Version | v1 |
 | PCB Revision | Rev0 |
 | 設計 | 初回Prototype製造向けに凍結済み |
-| 実機検証 | 未完了 |
+| 基板製造 | 発注済み・到着待ち |
+| 実装 | 未着手 |
+| 実機検証 | 未着手 |
 | Release tag | `v1-rev0`を予定 |
 
 ## Rev0概要

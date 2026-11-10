@@ -3,7 +3,7 @@
 > [!WARNING]
 > **Unverified Rev0 hardware**
 >
-> This frozen design has not yet been electrically verified. Manufacturing and assembly are at your own risk, and a later revision may change the design.
+> Rev0 PCBs have been ordered and are awaiting delivery. They have not yet been assembled, powered, or electrically verified. Assembly and use are at your own risk, and a later revision may change the design.
 
 [日本語](README.ja.md) · [CraftVia](https://craftvia.org) · [Rev0 release notes](RELEASE_NOTES.md)
 
@@ -20,7 +20,9 @@ CraftVia Core-S G431 is a Core-S v1 implementation based on the STM32G431CBT6. I
 | Product generation | v1 |
 | PCB revision | Rev0 |
 | Design | Frozen for initial prototype fabrication |
-| Hardware verification | Not completed |
+| PCB fabrication | Ordered; awaiting delivery |
+| Assembly | Not started |
+| Hardware verification | Not started |
 | Release tag | `v1-rev0` planned |
 
 ## Rev0 summary

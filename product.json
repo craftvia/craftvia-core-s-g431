@@ -7,7 +7,7 @@
   "pcbRevision": "Rev0",
   "designStatus": "frozen",
   "verificationStatus": "unverified",
-  "hardwareStatus": "design-frozen",
+  "hardwareStatus": "boards-ordered",
   "summary": {
     "en": "An STM32G431-based Core-S implementation with SWD, native USB, mixed-signal peripherals, and optional FDCAN profiles.",
     "ja": "STM32G431を搭載し、SWD、Native USB、Mixed-signal peripheral、Profile選択式FDCANを提供するCore-S実装です。"
